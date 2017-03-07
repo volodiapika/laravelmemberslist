@@ -1,1 +1,2 @@
-Laravel, Anglar JS, CSS, HTML
+
+Laravel, Angular JS, CSS, HTML
